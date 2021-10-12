@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manu-PE
+- 👋 Hi, I’m @Manogna
 - 👀 I’m interested in coding and sql
 - 🌱 I’m currently learning sql and python
 - 📫 How to reach me --- mail me @manognaittamalla@gmail.com
